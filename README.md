@@ -30,7 +30,7 @@
     <td width="50%" valign="top">
       <h3>Who I Am</h3>
       <p>
-        Final Year Computer Science Engineering student focused on building backend-heavy products with practical business value.
+        Fresher in Computer Science Engineering focused on building backend-heavy products with practical business value.
       </p>
       <ul>
         <li>Java and Spring Boot learner with production mindset</li>
@@ -149,24 +149,6 @@
 
 ---
 
-<h2 align="center">Experience Timeline</h2>
-
-<table>
-  <tr>
-    <td width="22%"><strong>2025</strong></td>
-    <td><strong>GirlScript Summer of Code</strong><br/>Top 3.9%, contributed to 10+ repositories, 14 merged pull requests.</td>
-  </tr>
-  <tr>
-    <td><strong>Internship</strong></td>
-    <td><strong>Technical Intern, ApexaiQ Technologies</strong><br/>Worked on Vue, Node, MongoDB, Python, Selenium, Docker.</td>
-  </tr>
-  <tr>
-    <td><strong>Internship</strong></td>
-    <td><strong>Frontend Intern, Friends of Animal</strong><br/>Built and improved product-facing interfaces with React.</td>
-  </tr>
-</table>
-
----
 
 <h2 align="center">Certifications</h2>
 
@@ -211,17 +193,6 @@
 
 ---
 
-<h2 align="center">2026 Goals</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Goal-Master%20Spring%20Boot-0f172a?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Master%20Backend-0f172a?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Contribute%20to%20Open%20Source-0f172a?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Crack%20Product%20Company-0f172a?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Build%20SaaS%20Products-0f172a?style=for-the-badge"/>
-</p>
-
----
 
 <h2 align="center">Automation</h2>
 
