@@ -1,0 +1,27 @@
+{
+  "name": "github_readme",
+  "version": "1.0.0",
+  "description": "Premium GitHub profile README with custom GraphQL dashboard and SVG rendering",
+  "type": "module",
+  "main": "scripts/github.js",
+  "scripts": {
+    "fetch:github": "node scripts/github.js",
+    "fetch:medium": "node scripts/medium.js",
+    "render": "node scripts/render.js",
+    "build:dashboard": "npm run fetch:github && npm run fetch:medium && npm run render",
+    "update": "npm run build:dashboard"
+  },
+  "keywords": [
+    "github-profile",
+    "graphql",
+    "svg",
+    "automation"
+  ],
+  "author": "Om Kadu",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fast-xml-parser": "^4.4.1",
+    "node-fetch": "^3.3.2"
+  }
+}

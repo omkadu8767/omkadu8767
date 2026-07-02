@@ -1,0 +1,16 @@
+<svg width="1280" height="110" viewBox="0 0 1280 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="footerAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#73DACA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="110" rx="20" fill="url(#footerBg)"/>
+  <rect x="46" y="31" width="1188" height="2" rx="2" fill="url(#footerAccent)"/>
+  <text x="48" y="70" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="16">Om Kadu | Engineer focused on backend systems, product thinking, and open-source craftsmanship.</text>
+  <text x="48" y="92" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="13">Updated Jul 02, 2026, 17:20 UTC | Copyright 2026 Om Kadu</text>
+</svg>
