@@ -50,33 +50,33 @@
         Language: {{TOP_LANGUAGE}}</text>
 
     <g>
-        <rect x="838" y="74" width="360" height="262" rx="18" fill="#0F172A" fill-opacity="0.68"
+        <rect x="910" y="74" width="288" height="262" rx="18" fill="#0F172A" fill-opacity="0.68"
             stroke="#334155" />
-        <text x="864" y="112" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif"
+        <text x="936" y="112" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif"
             font-size="16" font-weight="700">Live Snapshot</text>
 
-        <rect x="864" y="132" width="148" height="74" rx="14" fill="url(#chip)" stroke="#334155" />
-        <text x="878" y="157" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif"
+        <rect x="936" y="132" width="118" height="74" rx="14" fill="url(#chip)" stroke="#334155" />
+        <text x="950" y="157" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif"
             font-size="12">Followers</text>
-        <text x="878" y="184" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif"
-            font-size="26" font-weight="700">{{FOLLOWERS}}</text>
+        <text x="950" y="184" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif"
+            font-size="23" font-weight="700">{{FOLLOWERS}}</text>
 
-        <rect x="1020" y="132" width="148" height="74" rx="14" fill="url(#chip)" stroke="#334155" />
-        <text x="1034" y="157" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif"
+        <rect x="1066" y="132" width="118" height="74" rx="14" fill="url(#chip)" stroke="#334155" />
+        <text x="1080" y="157" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif"
             font-size="12">Repositories</text>
-        <text x="1034" y="184" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif"
-            font-size="26" font-weight="700">{{REPOSITORIES}}</text>
+        <text x="1080" y="184" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif"
+            font-size="23" font-weight="700">{{REPOSITORIES}}</text>
 
-        <rect x="864" y="216" width="148" height="74" rx="14" fill="url(#chip)" stroke="#334155" />
-        <text x="878" y="241" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif"
+        <rect x="936" y="216" width="118" height="74" rx="14" fill="url(#chip)" stroke="#334155" />
+        <text x="950" y="241" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif"
             font-size="12">Stars</text>
-        <text x="878" y="268" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif"
-            font-size="26" font-weight="700">{{STARS}}</text>
+        <text x="950" y="268" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif"
+            font-size="23" font-weight="700">{{STARS}}</text>
 
-        <rect x="1020" y="216" width="148" height="74" rx="14" fill="url(#chip)" stroke="#334155" />
-        <text x="1034" y="241" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif"
+        <rect x="1066" y="216" width="118" height="74" rx="14" fill="url(#chip)" stroke="#334155" />
+        <text x="1080" y="241" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif"
             font-size="12">Contributions</text>
-        <text x="1034" y="268" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif"
-            font-size="26" font-weight="700">{{CONTRIBUTIONS}}</text>
+        <text x="1080" y="268" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif"
+            font-size="23" font-weight="700">{{CONTRIBUTIONS}}</text>
     </g>
 </svg>
