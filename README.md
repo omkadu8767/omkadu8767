@@ -7,18 +7,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/omkadu8767"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-omkadu8767-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/om-kadu-53305425a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Professional-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://omkadu8767-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:kaduom444@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaduom444%40gmail.com-1f2937?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://github.com/omkadu8767"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-omkadu8767-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/om-kadu-53305425a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://omkadu8767-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-7AA2F7?style=for-the-badge&logo=vercel&logoColor=0B1220"/></a>
+  <a href="mailto:kaduom444@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaduom444%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/kaduom444/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-kaduom444-111827?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>
-  <a href="https://www.hackerrank.com/profile/kaduom444"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-kaduom444-111827?style=flat-square&logo=hackerrank&logoColor=2EC866"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/kaduoh2w1"><img alt="GeeksForGeeks" src="https://img.shields.io/badge/GeeksforGeeks-Profile-111827?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46"/></a>
-  <a href="https://medium.com/@kaduom444"><img alt="Medium" src="https://img.shields.io/badge/Medium-Articles-111827?style=flat-square&logo=medium&logoColor=white"/></a>
-  <a href="https://x.com/OmKadu79824376"><img alt="X" src="https://img.shields.io/badge/X-@OmKadu79824376-111827?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://leetcode.com/kaduom444/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-kaduom444-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/kaduom444"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-kaduom444-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/kaduoh2w1"><img alt="GeeksForGeeks" src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://medium.com/@kaduom444"><img alt="Medium" src="https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+  <a href="https://x.com/OmKadu79824376"><img alt="X" src="https://img.shields.io/badge/X-@OmKadu79824376-111111?style=flat-square&logo=x&logoColor=white"/></a>
 </p>
 
 ---
@@ -44,13 +44,13 @@
         Building stronger depth in backend systems, scalable APIs, and cloud-native workflows.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Learning-Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Learning-Spring%20Boot-1E293B?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+        <img src="https://img.shields.io/badge/Learning-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Learning-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Interests-Backend%20Engineering-0f172a?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Interests-Cloud%20Computing-0f172a?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Interests-Software%20Architecture-0f172a?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Interests-Backend%20Engineering-7AA2F7?style=flat-square&logo=serverless&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Interests-Cloud%20Computing-38BDF8?style=flat-square&logo=googlecloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Interests-Software%20Architecture-73DACA?style=flat-square&logo=layers&logoColor=0B1220"/>
       </p>
     </td>
   </tr>

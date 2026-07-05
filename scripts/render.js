@@ -125,23 +125,27 @@ function renderContributionGrid(githubData) {
     const weeks = githubData.contributionCalendar?.weeks ?? [];
     const daySize = 13;
     const gap = 4;
-    const startX = 120;
-    const startY = 78;
+    const startX = 140;
+    const startY = 112;
 
     const cells = [];
-    const labels = ["Mon", "Wed", "Fri"];
+    const labels = [
+        { text: "Mon", y: 127 },
+        { text: "Wed", y: 161 },
+        { text: "Fri", y: 195 }
+    ];
 
     if (!weeks.length) {
-        return `<svg width="1280" height="210" viewBox="0 0 1280 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+        return `<svg width="1280" height="300" viewBox="0 0 1280 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="gridBg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0B1220"/>
       <stop offset="100%" stop-color="#111827"/>
     </linearGradient>
   </defs>
-  <rect width="1280" height="210" rx="20" fill="url(#gridBg)"/>
-  <text x="44" y="66" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Contribution Graph</text>
-  <text x="44" y="106" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Contribution calendar data will appear after the next GraphQL update run.</text>
+    <rect width="1280" height="300" rx="20" fill="url(#gridBg)"/>
+    <text x="44" y="58" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Contribution Graph</text>
+    <text x="44" y="88" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Contribution calendar data will appear after the next GraphQL update run.</text>
 </svg>`;
     }
 
@@ -156,35 +160,32 @@ function renderContributionGrid(githubData) {
         });
     });
 
-    const legendX = 1000;
-    const legendY = 176;
-
-    return `<svg width="1280" height="230" viewBox="0 0 1280 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+    return `<svg width="1280" height="300" viewBox="0 0 1280 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="gridBg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0B1220"/>
       <stop offset="100%" stop-color="#111827"/>
     </linearGradient>
   </defs>
-  <rect width="1280" height="230" rx="20" fill="url(#gridBg)"/>
-  <text x="44" y="56" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Contribution Graph</text>
-  <text x="44" y="82" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">Live 12-month contribution calendar from GitHub GraphQL.</text>
+    <rect width="1280" height="300" rx="20" fill="url(#gridBg)"/>
+    <text x="44" y="58" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Contribution Graph</text>
+    <text x="44" y="88" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">Live 12-month contribution calendar from GitHub GraphQL.</text>
 
-  <text x="70" y="113" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="12">${labels[0]}</text>
-  <text x="70" y="147" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="12">${labels[1]}</text>
-  <text x="70" y="181" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="12">${labels[2]}</text>
+    <text x="70" y="${labels[0].y}" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="12">${labels[0].text}</text>
+    <text x="70" y="${labels[1].y}" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="12">${labels[1].text}</text>
+    <text x="70" y="${labels[2].y}" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="12">${labels[2].text}</text>
 
   ${cells.join("\n")}
 
-  <text x="948" y="186" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">Less</text>
-  <rect x="985" y="176" width="13" height="13" rx="3" fill="#1E293B"/>
-  <rect x="1004" y="176" width="13" height="13" rx="3" fill="#0E4429"/>
-  <rect x="1023" y="176" width="13" height="13" rx="3" fill="#006D32"/>
-  <rect x="1042" y="176" width="13" height="13" rx="3" fill="#26A641"/>
-  <rect x="1061" y="176" width="13" height="13" rx="3" fill="#39D353"/>
-  <text x="1082" y="186" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">More</text>
+    <text x="976" y="258" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">Less</text>
+    <rect x="1013" y="248" width="13" height="13" rx="3" fill="#1E293B"/>
+    <rect x="1032" y="248" width="13" height="13" rx="3" fill="#0E4429"/>
+    <rect x="1051" y="248" width="13" height="13" rx="3" fill="#006D32"/>
+    <rect x="1070" y="248" width="13" height="13" rx="3" fill="#26A641"/>
+    <rect x="1089" y="248" width="13" height="13" rx="3" fill="#39D353"/>
+    <text x="1110" y="258" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">More</text>
 
-  <text x="44" y="206" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="13">Total contributions: ${formatInt(githubData.stats.contributions)}</text>
+    <text x="44" y="284" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="13">Total contributions: ${formatInt(githubData.stats.contributions)}</text>
 </svg>`;
 }
 
