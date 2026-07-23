@@ -65,7 +65,7 @@
         <text x="1080" y="157" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif"
             font-size="12">Repositories</text>
         <text x="1080" y="184" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif"
-            font-size="23" font-weight="700">45</text>
+            font-size="23" font-weight="700">46</text>
 
         <rect x="936" y="216" width="118" height="74" rx="14" fill="url(#chip)" stroke="#334155" />
         <text x="950" y="241" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif"
@@ -77,6 +77,6 @@
         <text x="1080" y="241" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif"
             font-size="12">Contributions</text>
         <text x="1080" y="268" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif"
-            font-size="23" font-weight="700">172</text>
+            font-size="23" font-weight="700">189</text>
     </g>
 </svg>
