@@ -13,8 +13,7 @@
     <text x="70" y="161" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="12">Wed</text>
     <text x="70" y="195" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="12">Fri</text>
 
-  <rect x="140" y="163" width="13" height="13" rx="3" fill="#ebedf0"><title>2025-07-23: 0 contributions</title></rect>
-<rect x="140" y="180" width="13" height="13" rx="3" fill="#ebedf0"><title>2025-07-24: 0 contributions</title></rect>
+  <rect x="140" y="180" width="13" height="13" rx="3" fill="#ebedf0"><title>2025-07-24: 0 contributions</title></rect>
 <rect x="140" y="197" width="13" height="13" rx="3" fill="#ebedf0"><title>2025-07-25: 0 contributions</title></rect>
 <rect x="140" y="214" width="13" height="13" rx="3" fill="#ebedf0"><title>2025-07-26: 0 contributions</title></rect>
 <rect x="157" y="112" width="13" height="13" rx="3" fill="#40c463"><title>2025-07-27: 2 contributions</title></rect>
@@ -379,6 +378,7 @@
 <rect x="1024" y="146" width="13" height="13" rx="3" fill="#40c463"><title>2026-07-21: 2 contributions</title></rect>
 <rect x="1024" y="163" width="13" height="13" rx="3" fill="#ebedf0"><title>2026-07-22: 0 contributions</title></rect>
 <rect x="1024" y="180" width="13" height="13" rx="3" fill="#ebedf0"><title>2026-07-23: 0 contributions</title></rect>
+<rect x="1024" y="197" width="13" height="13" rx="3" fill="#ebedf0"><title>2026-07-24: 0 contributions</title></rect>
 
     <text x="976" y="258" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">Less</text>
     <rect x="1013" y="248" width="13" height="13" rx="3" fill="#1E293B"/>
