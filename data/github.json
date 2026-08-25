@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T12:50:28.966Z",
-  "lastUpdated": "Aug 24, 2026, 12:50 UTC",
+  "generatedAt": "2026-08-25T01:15:57.614Z",
+  "lastUpdated": "Aug 25, 2026, 01:15 UTC",
   "profile": {
     "name": "Om Kadu",
     "username": "omkadu8767",
@@ -27,12 +27,6 @@
     "weeks": [
       {
         "contributionDays": [
-          {
-            "contributionCount": 0,
-            "date": "2025-08-24",
-            "weekday": 0,
-            "color": "#ebedf0"
-          },
           {
             "contributionCount": 0,
             "date": "2025-08-25",
@@ -2429,6 +2423,12 @@
             "contributionCount": 0,
             "date": "2026-08-24",
             "weekday": 1,
+            "color": "#ebedf0"
+          },
+          {
+            "contributionCount": 0,
+            "date": "2026-08-25",
+            "weekday": 2,
             "color": "#ebedf0"
           }
         ]
