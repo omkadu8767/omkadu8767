@@ -87,7 +87,7 @@
             (12 months)</text>
         <text x="610" y="422" text-anchor="end" fill="#E2E8F0"
             font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">
-            123</text>
+            121</text>
 
         <text x="98" y="462" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Commit
             Contributions</text>
@@ -103,7 +103,7 @@
         <text x="98" y="542" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16">
             Issues</text>
         <text x="610" y="542" text-anchor="end" fill="#E2E8F0"
-            font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">2</text>
+            font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">0</text>
 
         <text x="98" y="582" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Contributed
             Repositories</text>
@@ -175,5 +175,5 @@
        </g>
 
     <text x="76" y="712" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="14">Last
-        Updated: Aug 31, 2026, 18:52 UTC | Powered by custom GraphQL pipeline</text>
+        Updated: Sep 01, 2026, 03:55 UTC | Powered by custom GraphQL pipeline</text>
 </svg>
